@@ -20,7 +20,7 @@ Set number, Title, Theme, Subtheme, Tags, Price, Pieces, Packaging,
 Dimensions, Set type, Age ranger, Rating, NumberOfRating, Url <br/>
 Question 5. Display the list of theme and subthem from the list of product 
 Display the product, which has a highest price. 
-Display the list of products, which have Rating  4.0 from at least 10 rating. <br/>
+Display the list of products, which have Rating >= 4.0 from at least 10 rating. <br/>
 
 Data: <br/>
 [1] https://brickset.com/sets/year-2021 <br/>
